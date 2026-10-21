@@ -55,6 +55,6 @@ Agents reach tools through connectors the project declares, and each agent's `co
 
 ## Where the commands come from
 
-Every command and key in these files comes from Kortix's own documentation: the self-hosting page at `kortix.com/docs/host`, the `kortix.yaml` reference at `kortix.com/docs/project/manifest`, the CLI reference at `kortix.com/docs/cli`, and the two blog posts on getting started and on the platform's layers. [Kortix on GitHub](https://github.com/kortix-ai/suna) carries the code. The ownership argument, in shorter form, is at [opensourceaioperatingsystem.com](https://opensourceaioperatingsystem.com/).
+Every command and key in these files comes from Kortix's own documentation: the self-hosting page at `kortix.com/docs/host`, the `kortix.yaml` reference at `kortix.com/docs/project/manifest`, the CLI reference at `kortix.com/docs/cli`, and the two blog posts on getting started and on the platform's layers. [Kortix on GitHub](https://github.com/kortix-ai/suna) carries the code. The ownership argument, in shorter form, is at [opensourceaioperatingsystem.com](https://opensourceaioperatingsystem.com/). The server-side walkthrough, firewall and DNS rules included, is in [self-hosting an AI operating system you own](https://opensourceaioperatingsystem.com/self-hosted-ai-operating-system).
 
 Run it on Kortix Cloud, in your VPC, or on your own on-prem network. Self-host is free. [Try Kortix](https://kortix.com).
